@@ -1,5 +1,7 @@
 # NutriStuff
 
+This is currently jupyters notebook to do some protein related calculations on the data set BLS. 
+
 ## Data Sources
 
 This project uses data from:
